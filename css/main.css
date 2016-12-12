@@ -1,0 +1,41 @@
+main {
+  padding-top: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.box {
+  height: 300px;
+  text-align: left;
+  border:1px solid lightslategrey;
+}
+
+
+nav {
+    background-color: darkorange;
+}
+
+.title {
+    width: 960px;
+    margin: auto;
+}
+
+.container {
+    width: 960px;
+    margin: auto;
+}
+
+.image {
+    height: 80%;
+}
+
+.image img {
+    height: 100%;
+    width: 100%;
+}
+
+.caption {
+    height: 20%;
+}
